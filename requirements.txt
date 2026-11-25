@@ -1,0 +1,11 @@
+# Dépendances du projet ParkRL
+gymnasium>=0.29.0
+numpy>=1.24.0
+shapely>=2.0.0
+stable-baselines3>=2.2.0
+torch>=2.0.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+streamlit>=1.32.0
+matplotlib>=3.7.0
+plotly>=5.18.0
